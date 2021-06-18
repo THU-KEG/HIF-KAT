@@ -1,0 +1,10 @@
+test_f1 = 0.8153392, test_prec = 0.7879133, test_rec = 0.8447433 @ val_f1 = 0.8240741
+test_f1 = 0.7928212, test_prec = 0.7177879, test_rec = 0.8853727 @ val_f1 = 0.8118081
+test_f1 = 0.7904526, test_prec = 0.7269099, test_rec = 0.8661685 @ val_f1 = 0.8088235
+test_f1 = 0.7849809, test_prec = 0.7628278, test_rec = 0.8084592 @ val_f1 = 0.8033175
+test_f1 = 0.7975385, test_prec = 0.7388826, test_rec = 0.8663102 @ val_f1 = 0.8168675
+test_f1 = 0.7970525, test_prec = 0.7400228, test_rec = 0.8636061 @ val_f1 = 0.7995110
+test_f1 = 0.7926640, test_prec = 0.7269099, test_rec = 0.8714969 @ val_f1 = 0.7965475
+test_f1 = 0.7963885, test_prec = 0.7291904, test_rec = 0.8772291 @ val_f1 = 0.8088235
+test_f1 = 0.8131540, test_prec = 0.7753706, test_rec = 0.8548083 @ val_f1 = 0.8341121
+test_f1 = 0.8266367, test_prec = 0.8386545, test_rec = 0.8149584 @ val_f1 = 0.8514412
