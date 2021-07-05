@@ -10,7 +10,7 @@ Due to the limitation of file size, we zip and split the files into pieces.
 In particular, these files are zipped by:
 
 ```bash
-tar -zcvf - fasttext.wiki.en.300d.bin |  split -b 1024m - embedding.tar.gz.
+tar -zcvf - fasttext.wiki.en.300d.bin | split -b 1024m - embedding.tar.gz.
 tar -zcvf - em2 | split -b 2048m - em2.tar.gz.
 ```
 
