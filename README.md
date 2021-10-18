@@ -111,3 +111,15 @@ The final results are recorded in the `logs` directory.
 If you use the code, please cite this paper:
 
 Zijun Yao, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai. Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making. *The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)*.
+
+via
+
+```
+@inproceedings{yao-etal-2021-interpretable,
+    title = "Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making",
+    author = "Yao, Zijun  and Li, Chengjiang  and Dong, Tiansi  and Lv, Xin  and Yu, Jifan  and Hou, Lei  and Li, Juanzi  and Zhang, Yichi  and Dai, Zelin",
+    booktitle = "ACL'21",
+    year = "2021",
+    url = "https://aclanthology.org/2021.acl-long.215",
+}
+```
